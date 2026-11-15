@@ -2,6 +2,12 @@
 
 A desktop calculator for Windows, built with Python and PySide6, featuring a translucent "Liquid Glass" interface.
 
+## Screenshots
+
+| Light theme | Dark theme |
+| --- | --- |
+| ![Light theme](screenshots/light-theme.jpg) | ![Dark theme](screenshots/dark-theme.jpg) |
+
 ## Features
 
 - Dark and light themes
@@ -27,7 +33,7 @@ A desktop calculator for Windows, built with Python and PySide6, featuring a tra
 
 ## Windows executable
 
-The Windows build is named `LiquidGlassCalculator.exe`. The EXE is about 46 MB; this repository currently contains the Python source. Upload the EXE as a GitHub Release asset or with Git LFS to avoid bloating regular Git history.
+Download **LiquidGlassCalculator.exe** from the [latest GitHub Release](https://github.com/gamonret/LiquidGlassCalculator/releases/latest).
 
 ## Build your own EXE
 
